@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Muchas gracias por aceptarme y volver a darme otra oportunidad, te amo demasiado.')
+    alert('Muchas gracias por aceptarme y volver a darme otra oportunidad, te amo demasiado bebé.')
 });
 
 const noBtn = document.querySelector('#noBtn');
